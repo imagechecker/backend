@@ -1,0 +1,8 @@
+{
+    "name": "listener",
+    "main": "listener.js",
+    "dependencies": {
+        "express": "^4.16.3",
+        "fs": "0.0.1-security"
+    }
+}
