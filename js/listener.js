@@ -9,7 +9,6 @@ var parser = require('body-parser');
 class listener{
     constructor(port){
         this.port = port;
-       // this.r = new ;
         this.setup();
     }
 
